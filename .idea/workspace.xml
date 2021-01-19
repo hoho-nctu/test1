@@ -20,24 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="459626f7-c052-4225-bf4d-83ab9060d8e0" name="Default Changelist" comment="modify">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view>
-          <tree_state>
-            <expand />
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,14 +59,7 @@
       <option name="project" value="LOCAL" />
       <updated>1611045724666</updated>
     </task>
-    <task id="LOCAL-00002" summary="modify">
-      <created>1611046522318</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1611046522318</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,10 +78,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="modify" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="239" y="113" key="Vcs.Push.Dialog.v2" timestamp="1611046527669">
+    <state x="239" y="113" key="Vcs.Push.Dialog.v2" timestamp="1611045733951">
       <screen x="0" y="23" width="1280" height="702" />
     </state>
-    <state x="239" y="113" key="Vcs.Push.Dialog.v2/0.23.1280.702@0.23.1280.702" timestamp="1611046527669" />
+    <state x="239" y="113" key="Vcs.Push.Dialog.v2/0.23.1280.702@0.23.1280.702" timestamp="1611045733951" />
     <state x="384" y="155" width="670" height="676" key="search.everywhere.popup" timestamp="1611044087904">
       <screen x="0" y="25" width="1440" height="806" />
     </state>
