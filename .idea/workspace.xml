@@ -1,48 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="459626f7-c052-4225-bf4d-83ab9060d8e0" name="Default Changelist" comment="modify">
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+    <list default="true" id="dc7ee8d4-9185-4e15-a9a8-1e8ff50dd525" name="Default Changelist" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view>
-          <tree_state>
-            <expand />
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nHPLlIptHSAbeB4DJkMmusDpzb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,40 +34,13 @@
       <option name="presentableId" value="Default" />
       <updated>1611043988545</updated>
     </task>
-    <task id="LOCAL-00001" summary="modify">
-      <created>1611045724665</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1611045724666</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="modify" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="119" y="144" width="1200" height="573" key="DiffContextDialog" timestamp="1611046735497">
-      <screen x="0" y="25" width="1440" height="814" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1611046153183">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="119" y="144" width="1200" height="573" key="DiffContextDialog/0.25.1440.814@0.25.1440.814" timestamp="1611046735497" />
-    <state x="239" y="113" key="Vcs.Push.Dialog.v2" timestamp="1611045733951">
-      <screen x="0" y="23" width="1280" height="702" />
-    </state>
-    <state x="239" y="113" key="Vcs.Push.Dialog.v2/0.23.1280.702@0.23.1280.702" timestamp="1611045733951" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1611046153183" />
     <state x="384" y="155" width="670" height="676" key="search.everywhere.popup" timestamp="1611044087904">
       <screen x="0" y="25" width="1440" height="806" />
     </state>
